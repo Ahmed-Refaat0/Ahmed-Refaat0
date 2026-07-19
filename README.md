@@ -14,11 +14,13 @@
 
 ```HTML-CSS
 const Ahmed = {
-  "language": "Arabic / Egyptian",
+  "language": "Arabic / English / Egyptian",
   "role": "Front-End Developer",
   "skills": [
     "HTML",
     "CSS",
+    "Javascript"
+    "TailwindCSS"
     "Git & GitHub"
   ]
 };
