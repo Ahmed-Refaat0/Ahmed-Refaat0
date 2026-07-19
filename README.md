@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-```HTML-CSS
+```JAVASCRIPT
 const Ahmed = {
   "language": "Arabic / English / Egyptian",
   "role": "Front-End Developer",
@@ -37,7 +37,7 @@ const Ahmed = {
 ## 🧰 Tech Toolbox
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,tailwindcss,javascript" /> 
 </p>
 
 ---
