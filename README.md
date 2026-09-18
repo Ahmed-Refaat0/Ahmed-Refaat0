@@ -14,13 +14,15 @@
 
 ```JAVASCRIPT
 const Ahmed = {
-  "language": "Arabic / English / Egyptian",
+  "language": "Arabic / English ",
   "role": "Front-End Developer",
   "skills": [
     "HTML",
     "CSS",
     "Javascript"
     "TailwindCSS"
+    "React JS"
+    "BootStrap"
     "Git & GitHub"
   ]
 };
@@ -37,7 +39,7 @@ const Ahmed = {
 ## 🧰 Tech Toolbox
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,tailwindcss,javascript" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,tailwindcss,javascript,reactjs,bootstrap" /> 
 </p>
 
 ---
