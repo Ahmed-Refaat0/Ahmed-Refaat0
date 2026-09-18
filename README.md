@@ -39,7 +39,7 @@ const Ahmed = {
 ## 🧰 Tech Toolbox
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,tailwindcss,javascript,reactjs,bootstrap" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,tailwindcss,javascript,react,bootstrap" /> 
 </p>
 
 ---
